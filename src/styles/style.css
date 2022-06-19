@@ -1,0 +1,11 @@
+.users{
+    background-color: #ccc;
+}
+.user-card{
+    display:flex;
+}
+.card-item{
+    display:flex;
+    flex-direction:column;
+    padding-left:20px;
+}
